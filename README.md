@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a multifunctional home lab that'll soon host a personal webpage!
+- 🌱 I’m currently learning Data Structures and Algorithms, with regards to Python, and studying for my CCNA.
+
+Link to [Personal Webpage](In Progress...)
 <!--
 **DilpreetG/DilpreetG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
