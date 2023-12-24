@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌐 I’m currently working on a multifunctional home lab that'll soon host a personal webpage!
+- 🌐 I’m working on improving my multifunctional home lab!
 - 🌱 I’m currently learning Data Structures and Algorithms, with regards to Python
 - 📡 Studying for A+ currently, planning on CCNA and/or Security+ in the summer.
 
-Link to [Personal Webpage] (In Progress...)
+Link to website: [gillserver.us]
 <!--
 **DilpreetG/DilpreetG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
