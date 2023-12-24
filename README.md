@@ -2,7 +2,7 @@
 
 - 🌐 I’m currently working on a multifunctional home lab that'll soon host a personal webpage!
 - 🌱 I’m currently learning Data Structures and Algorithms, with regards to Python
-- 📡 Studying for my CCNA.
+- 📡 Studying for A+ currently, planning on CCNA and/or Security+ in the summer.
 
 Link to [Personal Webpage] (In Progress...)
 <!--
