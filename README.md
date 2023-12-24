@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms, with regards to Python
 - 📡 Studying for A+ currently, planning on CCNA and/or Security+ in the summer.
 
-Link to website: [gillserver.us]
+Link to website: gillserver.us
 <!--
 **DilpreetG/DilpreetG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
