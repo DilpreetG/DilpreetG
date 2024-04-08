@@ -2,7 +2,7 @@
 
 - 🌐 I’m working on improving my multifunctional home lab!
 - 🌱 I’m currently learning Data Structures and Algorithms, with regards to Python
-- 📡 Studying for A+ currently, planning on CCNA and/or Security+ in the summer.
+- 📡 Studying for A+ currently, planning on Security+ in the summer.
 
 Link to website: gillserver.us
 <!--
